@@ -44,6 +44,14 @@
     background-color: firebrick;
     color: orange;
     cursor: pointer;
+    transition: 2s;
+    border: 0cm;
+}
+.button:hover {
+    background-color: orange;
+    color: firebrick;
+    width: 20%;
+    padding: 16px 75px;
 }
 .footer ul {
     display: flex;
